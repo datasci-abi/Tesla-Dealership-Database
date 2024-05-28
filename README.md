@@ -1,0 +1,1 @@
+In this project, database for a Tesla dealership is constructed, by drawing an E-R Diagram, creating a logical schema, using the database software such as SQL to build its database and load the record of data and finally to run the queries.
